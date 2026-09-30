@@ -1,0 +1,26 @@
+variable_1,variable_2,rho,orden_1,orden_2
+Precio alquiler (€/m²),Precio alquiler (€/m²),1.0,0,0
+Densidad Airbnb,Precio alquiler (€/m²),0.8374762395646285,1,0
+Renta del hogar,Precio alquiler (€/m²),0.2751380676132131,2,0
+Distancia al centro,Precio alquiler (€/m²),-0.7901254554206729,3,0
+Crecimiento población,Precio alquiler (€/m²),-0.08770424210720937,4,0
+Precio alquiler (€/m²),Densidad Airbnb,0.8374762395646285,0,1
+Densidad Airbnb,Densidad Airbnb,1.0,1,1
+Renta del hogar,Densidad Airbnb,0.09867319581604334,2,1
+Distancia al centro,Densidad Airbnb,-0.7614715520241171,3,1
+Crecimiento población,Densidad Airbnb,0.0015692981669059866,4,1
+Precio alquiler (€/m²),Renta del hogar,0.2751380676132131,0,2
+Densidad Airbnb,Renta del hogar,0.09867319581604334,1,2
+Renta del hogar,Renta del hogar,1.0,2,2
+Distancia al centro,Renta del hogar,-0.047542896918596575,3,2
+Crecimiento población,Renta del hogar,-0.5597081206671509,4,2
+Precio alquiler (€/m²),Distancia al centro,-0.7901254554206729,0,3
+Densidad Airbnb,Distancia al centro,-0.7614715520241171,1,3
+Renta del hogar,Distancia al centro,-0.047542896918596575,2,3
+Distancia al centro,Distancia al centro,1.0,3,3
+Crecimiento población,Distancia al centro,0.13315550868822093,4,3
+Precio alquiler (€/m²),Crecimiento población,-0.08770424210720937,0,4
+Densidad Airbnb,Crecimiento población,0.0015692981669059866,1,4
+Renta del hogar,Crecimiento población,-0.5597081206671509,2,4
+Distancia al centro,Crecimiento población,0.13315550868822093,3,4
+Crecimiento población,Crecimiento población,1.0,4,4
