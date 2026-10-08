@@ -1,6 +1,6 @@
 # Presión turística vs. precio del alquiler residencial en Madrid
 
-![Portada](img/portada.png)
+![Portada](portada_powerbi.png)
 
 > **Conclusión:** no hay evidencia suficiente de que los pisos turísticos encarezcan el alquiler. Lo que explica el precio es la **renta del barrio** y la **distancia al centro**.
 
@@ -42,8 +42,9 @@ Unidad de análisis: barrio (100 de los 131 oficiales con precio disponible).
 | Peso máximo de los pisos turísticos sobre el alquiler | 2,2 % (0–31 €/mes) |
 
 ## Dashboard
-![Resultados](img/resultados.png)
-![Variables que explican el precio](img/variables.png)
+![Resultados](resultados.png)
+![Variables que explican el precio](variables.png)
+📊 [Dashboard Power BI](04_power_bi/)
 
 ## Limitaciones
 - Diseño transversal: muestra asociación, no causalidad.
