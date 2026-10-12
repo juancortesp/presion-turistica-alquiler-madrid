@@ -4,7 +4,7 @@
 
 > **Conclusión:** no hay evidencia suficiente de que los pisos turísticos encarezcan el alquiler. Lo que explica el precio es la **renta del barrio** y la **distancia al centro**.
 
-📄 [Ver portfolio en PDF](https://github.com/juancortesp/portfolio) · 📊 [Dashboard Power BI](dashboard/)
+📄 [Ver portfolio en PDF](https://github.com/juancortesp/portfolio) · 
 
 ## Pregunta de negocio
 ¿Los barrios con más pisos turísticos (Airbnb) tienen alquileres residenciales más caros, una vez descontado el efecto de la renta, la distancia al centro y el crecimiento de población?
@@ -44,7 +44,7 @@ Unidad de análisis: barrio (100 de los 131 oficiales con precio disponible).
 ## Dashboard
 ![Resultados](resultados.png)
 ![Variables que explican el precio](variables.png)
-📊 [Dashboard Power BI](04_power_bi/)
+📊 [Dashboard Power BI](04_power_bi/proyecto_madrid_juan.pbix)
 
 ## Limitaciones
 - Diseño transversal: muestra asociación, no causalidad.
