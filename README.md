@@ -30,7 +30,7 @@ Unidad de análisis: barrio (100 de los 131 oficiales con precio disponible).
 ## Resultados principales
 - El modelo explica el 70 % de las diferencias de precio entre barrios (R² = 0,70).
 - Renta, distancia al centro y crecimiento de población son significativos.
-- La densidad de Airbnb tiene efecto positivo pero **no significativo al 5 %** (p = 0,081): no hay evidencia suficiente para afirmar que explique el precio por sí sola.
+- La densidad de Airbnb tiene efecto positivo  **significativo al 5 %** (p = 0,033): hay evidencia suficiente para afirmar que explique el precio por sí sola.
 - Tres tipos de barrio: Centro turístico, Residencial caro, Residencial asequible.
 
 ### En cifras
